@@ -31,8 +31,10 @@ python Pacman4x4.py -your option-
  
  3 for Uniform cost search (UCS) .  
  
-Resuls.
+Results.
 ===================
+You can see the time it takes the algorithm to reachthe target in the terminal, in the third option you can see the cost 
+![Screenshot](https://github.com/TatianaAndreaRozoManrique/Inteligencia/blob/master/Figures/4.PNG)
  Depth-first search (FDS)
  --------------------
  
