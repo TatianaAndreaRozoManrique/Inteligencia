@@ -33,7 +33,7 @@ python Pacman4x4.py -your option-
  
 Results.
 ===================
-You can see the time it takes the algorithm to reachthe target in the terminal, in the third option you can see the cost 
+You can see the time it takes the algorithm to reach the target in the terminal, in the third option you can see the cost 
 ![Screenshot](https://github.com/TatianaAndreaRozoManrique/Inteligencia/blob/master/Figures/4.PNG)
  Depth-first search (FDS)
  --------------------
@@ -49,4 +49,5 @@ for Uniform cost search (UCS)
  --------------------
  
 ![Screenshot](https://github.com/TatianaAndreaRozoManrique/Inteligencia/blob/master/Figures/3.png)
-the path traveled is the blue and the path found is lilac
+the path traveled is the blue and the path found is lilac.
+In our opinion the best algorithm for solving the maze was the BFS, because it shows the shortest path and the time isnt too different between the others.
