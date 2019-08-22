@@ -184,7 +184,7 @@ def Paint_problem():
     Posiciones=[]
     vec=[]
     vertices = []
-    with open('hi.txt') as archivo:
+    with open('maze.txt') as archivo:
         with_out = [ar.rstrip('\n') for ar in archivo]
         for ar in with_out:
           Posiciones.append(ar.split(','))
@@ -252,6 +252,9 @@ def Paint_problem():
             Orientacion.append((pos, E, 1))
     problem = graph_problem(vertices, Orientacion,Agente,Gold)
     actions2, tree2 = uniformCostSearch(problem,Agente,Gold)
+    print("sequence of actions in the solution:",actions2)
+    print("the amount of explorer states:",len(actions2))
+
     Final = []
     Final2 = []
     for c in actions2:
