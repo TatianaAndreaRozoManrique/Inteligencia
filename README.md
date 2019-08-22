@@ -49,3 +49,4 @@ for Uniform cost search (UCS)
  --------------------
  
 ![Screenshot](https://github.com/TatianaAndreaRozoManrique/Inteligencia/blob/master/Figures/3.png)
+the path traveled is the blue and the path found is lilac
