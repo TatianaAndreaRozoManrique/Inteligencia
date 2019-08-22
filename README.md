@@ -19,8 +19,8 @@ The user must have the libraries installed below to run the program:
 
 
 ![Screenshot](https://github.com/TatianaAndreaRozoManrique/Inteligencia/blob/master/Figures/1.png)
-
-
+![Screenshot](https://github.com/TatianaAndreaRozoManrique/Inteligencia/blob/master/Figures/2.png)
+![Screenshot](https://github.com/TatianaAndreaRozoManrique/Inteligencia/blob/master/Figures/3.png)
 Backends
 --------
 
