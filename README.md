@@ -19,8 +19,13 @@ The user must have the libraries installed below to run the program:
 
 Run.
 ===================
-The user must use this command on the same terminal 
->>python Pacman4x4 -your option--
+You need to open the terminal in the same place where you have the file
+python Pacman4x4.py -your option-
+"your option" represents:
+ 1 for Depth-first search (FDS).
+ 2 for Breath-first Search (BFS).
+ 3 for Uniform cost search (UCS) .  
+ 
 ![Screenshot](https://github.com/TatianaAndreaRozoManrique/Inteligencia/blob/master/Figures/1.png)
 ![Screenshot](https://github.com/TatianaAndreaRozoManrique/Inteligencia/blob/master/Figures/2.png)
 ![Screenshot](https://github.com/TatianaAndreaRozoManrique/Inteligencia/blob/master/Figures/3.png)
