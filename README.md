@@ -17,7 +17,10 @@ The user must have the libraries installed below to run the program:
 * numpy 
 * pyautogui
 
-
+Run.
+===================
+The user must use this command on the same terminal 
+>>python Pacman4x4 -your option--
 ![Screenshot](https://github.com/TatianaAndreaRozoManrique/Inteligencia/blob/master/Figures/1.png)
 ![Screenshot](https://github.com/TatianaAndreaRozoManrique/Inteligencia/blob/master/Figures/2.png)
 ![Screenshot](https://github.com/TatianaAndreaRozoManrique/Inteligencia/blob/master/Figures/3.png)
