@@ -35,10 +35,15 @@ Resuls.
 ===================
  Depth-first search (FDS)
  --------------------
+ 
 ![Screenshot](https://github.com/TatianaAndreaRozoManrique/Inteligencia/blob/master/Figures/1.png)
+
 Breath-first Search (BFS)
  --------------------
+ 
 ![Screenshot](https://github.com/TatianaAndreaRozoManrique/Inteligencia/blob/master/Figures/2.png)
+
 for Uniform cost search (UCS)
  --------------------
+ 
 ![Screenshot](https://github.com/TatianaAndreaRozoManrique/Inteligencia/blob/master/Figures/3.png)
