@@ -18,7 +18,7 @@ The user must have the libraries installed below to run the program:
 * pyautogui
 
 
-![Screenshot](https://github.com/Inteligencia/Figures/1.png)
+![Screenshot](https://github.com/TatianaAndreaRozoManrique/Inteligencia/blob/master/Figures/1.png)
 
 
 Backends
